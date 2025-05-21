@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PahlawanIndonesia</string>
+    <string name="nama">Nama Pahlawan</string>
+    <string name="deskripsi">Deskripsi Pahlawan</string>
+
+
+    <string name="lorem">Lorem ipsum dolor sit amen</string>
+    <string-array name="data_name">
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>Ahmad Dahlan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dr.(H.C.) Ir. H. Soekarno (nama lahir: Koesno Sosrodihardjo) (lahir di Surabaya, Jawa Timur, 6 Juni 1901 – meninggal di Jakarta, 21 Juni 1970 pada umur 69 tahun)[note 1][note 2] adalah Presiden pertama Republik Indonesia yang menjabat pada periode 1945–1967.[5]:11, 79 Ia memainkan peranan penting dalam memerdekakan bangsa Indonesia dari penjajahan Belanda.[6]:21-22 Ia adalah Proklamator Kemerdekaan Indonesia (bersama dengan Mohammad Hatta) yang terjadi pada tanggal 17 Agustus 1945. Soekarno adalah yang pertama kali mencetuskan konsep mengenai Pancasila sebagai dasar negara Indonesia dan ia sendiri yang menamainya</item>
+        <item>Jenderal Besar TNI H. M. Soeharto, (EYD: Suharto) (lahir di Kemusuk, Argomulyo, Sedayu, Bantul, Yogyakarta, 8 Juni 1921 – meninggal di Jakarta, 27 Januari 2008 pada umur 86 tahun)[1] adalah Presiden kedua Indonesia yang menjabat dari tahun 1967 sampai 1998, menggantikan Soekarno.</item>
+        <item>Kyai Haji Ahmad Dahlan (lahir dengan nama Muhammad Darwis ; bahasa Arab : أحمد دحلان ; 1 Agustus 1868 – 23 Februari 1923), sering disingkat KH Ahmad Dahlan , adalah seorang pemimpin agama Islam dan revivalis Indonesia , yang mendirikan organisasi Muhammadiyah . Yang kemudian menjadi salah satu organisasi Muslim terbesar di Indonesia , kedua setelah Nahdlatul Ulama . Lahir di Kauman, Yogyakarta , ia adalah putra seorang imam masjid setempat dan menelusuri asal-usulnya dari garis keturunan Muhammad . Ahmad Dahlan menunaikan ibadah haji ketika ia berusia 15 tahun, dan ia tinggal di Mekkah selama lima tahun berikutnya.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/soekarno</item>
+        <item>@drawable/soeharto</item>
+        <item>@drawable/dahlan</item>
+    </integer-array>
+</resources>
